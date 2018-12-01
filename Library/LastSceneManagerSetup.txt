@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Lauren/Desktop/FUNTIMES NEW VERSION 2/FUNTIMES/Assets/Scenes/Game1.unity
+  isLoaded: 1
+  isActive: 1
